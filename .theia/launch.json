@@ -1,0 +1,11 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - KafkaClient",
+         "request": "launch",
+         "mainClass": "com.kiktan.kafkaclient.KafkaClient",
+         "projectName": "kafkaclient"
+      }
+   ]
+}

@@ -13,3 +13,4 @@ vscode:
   extensions:
     - Pivotal.vscode-boot-dev-pack@0.0.8:BrfHu4se+ljgyUPUU+95ig==
     - vscjava.vscode-spring-initializr@0.4.6:WOgtgIwX3Ngy4pM9ArXjCQ==
+    - vscjava.vscode-java-debug@0.23.0:3ARqL3kPh1J1SwpVjYUjqw==
